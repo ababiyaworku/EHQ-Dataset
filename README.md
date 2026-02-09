@@ -22,6 +22,6 @@ The EHQ-Dataset provides a diverse and representative collection of images showc
 - Research in computer vision and AI fairness
 - Educational purposes
 
-<img width="920" height="240" alt="png-transparent-hugging-face-logo-tech-companies" src="https://github.com/user-attachments/assets/f56a7112-550d-442b-8e4e-54b0c8e4ba7a" />
 
+<img width="963" height="256" alt="hf-logo-with-title" src="https://github.com/user-attachments/assets/0d348a59-d67b-4b3a-8e90-c553013163d3" />
 ## Huggingface Link
