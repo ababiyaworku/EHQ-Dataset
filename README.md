@@ -1,4 +1,5 @@
 # EHQ-Dataset (Ethiopian High Quality Dataset)
+![EHQ BANNER](https://github.com/user-attachments/assets/b82d0463-7d4e-4a97-aeb3-fc9d0cfd9590)
 
 A curated collection of high-quality, colorized photographs featuring Ethiopian people, culture, and heritage.
 
