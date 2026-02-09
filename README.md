@@ -23,4 +23,5 @@ The EHQ-Dataset provides a diverse and representative collection of images showc
 - Educational purposes
 
 <img width="463" height="123" alt="hf-logo-with-title" src="https://github.com/user-attachments/assets/aeb9a290-7e0b-4e90-8bda-6301abf23dd4" />
+
 [Huggingface Link](https://huggingface.co/datasets/Ababiya/EHQ-Dataset)
